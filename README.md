@@ -58,11 +58,7 @@ I'm a full-stack web developer who loves turning ideas into clean, functional, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrasetyaRiski&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasetyaRiski&layout=compact&theme=tokyonight&hide_border=true" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrasetyaRiski&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/PrasetyaRiski)
 
 </div>
 

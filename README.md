@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Prasetya+Riski+👋;Full-Stack+Web+Developer;Laravel+%26+PHP+Enthusiast;Based+in+Indonesia+🇮🇩" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prasetya+Riski+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%26+PHP+Enthusiast;Building+clean%2C+modern+web+apps" alt="Typing SVG" />
+
+<br/>
+
+**A passionate developer from Indonesia, crafting modern web experiences 🚀**
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prasetyarizki.my.id-3B82F6?style=flat-square&logo=googlechrome&logoColor=white)](https://prasetyarizki.my.id/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-![Profile Views](https://komarev.com/ghpvc/?username=PrasetyaRiski&color=3B82F6&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=PrasetyaRiski&color=3B82F6&style=flat-square)
 
 </div>
 
@@ -15,12 +19,13 @@
 
 ## About Me
 
-I'm a passionate full-stack developer from Indonesia who loves crafting modern, clean, and maintainable web applications. I enjoy solving real problems through code and building things that are both functional and elegant.
+I'm a full-stack web developer who loves turning ideas into clean, functional, and well-crafted applications. I care deeply about code quality, user experience, and building things that actually work.
 
-- 🔭 Always working on something new
-- 🌱 Continuously learning and improving my craft
-- 💬 Ask me about **PHP, Laravel, Tailwind CSS, Alpine.js, MySQL**
-- ⚡ I believe great software is built with clarity and intention
+- 🎓 Focused on **Web Programming & Software Development**
+- 💻 I enjoy building both robust backend systems and beautiful frontend interfaces
+- 🌱 Always eager to learn new technologies and sharpen my skills
+- 💬 Ask me about **PHP, Laravel, Tailwind CSS, MySQL, Alpine.js**
+- ⚡ I code to solve problems and automate the boring stuff
 
 ---
 
@@ -73,6 +78,6 @@ I'm a passionate full-stack developer from Indonesia who loves crafting modern, 
 
 <div align="center">
 
-*"Writing clean code and solving real problems — one commit at a time."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=%22Writing+clean+code%2C+one+line+at+a+time.%22" alt="Quote" />
 
 </div>

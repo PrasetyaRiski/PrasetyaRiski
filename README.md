@@ -16,7 +16,6 @@
 
 I'm a passionate full-stack developer who loves building modern, clean, and maintainable web applications. My main playground is the **Laravel** ecosystem, but I enjoy exploring anything that makes the web better.
 
-- 🔭 Currently building **[ToolBox](https://github.com/PrasetyaRiski/ToolBox)** — an all-in-one utility platform with 50+ tools
 - 🌱 Always learning something new to sharpen my craft
 - 💬 Ask me about **PHP, Laravel, Tailwind CSS, Alpine.js, MySQL**
 - ⚡ I believe great software is built with clarity and intention

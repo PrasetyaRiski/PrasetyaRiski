@@ -60,17 +60,9 @@ I'm a full-stack web developer who loves turning ideas into clean, functional, a
 
 <img src="https://github-readme-stats.vercel.app/api?username=PrasetyaRiski&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasetyaRiski&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=PrasetyaRiski&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrasetyaRiski&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 

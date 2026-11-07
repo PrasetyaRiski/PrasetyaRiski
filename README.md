@@ -77,10 +77,10 @@ I am a full-stack engineer dedicated to turning complex operational workflows in
 <table border="0">
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasetyaRiski&show_icons=true&theme=tokyonight&bg_color=0a0f1d&title_color=38bdf8&text_color=94a3b8&icon_color=ff2d20&border_color=1e293b&hide_border=false" alt="Prasetya's GitHub Stats" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrasetyaRiski&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasetyaRiski&layout=compact&theme=tokyonight&bg_color=0a0f1d&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Most Used Languages" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrasetyaRiski&theme=tokyonight" alt="Top Languages" width="100%" />
 </td>
 </tr>
 </table>

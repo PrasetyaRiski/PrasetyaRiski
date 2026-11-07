@@ -88,21 +88,21 @@ I am a full-stack engineer dedicated to turning complex operational workflows in
 <br/>
 
 <a href="https://github.com/PrasetyaRiski">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasetyaRiski&theme=tokyonight&background=0a0f1d&border=1e293b&stroke=ff2d20&ring=38bdf8&fire=ff2d20&currStreakLabel=38bdf8" alt="GitHub Streak" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasetyaRiski&theme=tokyonight&background=0a0f1d&border=1e293b&stroke=ff2d20&ring=38bdf8&fire=ff2d20&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
 ```php
 <?php
 
-namespace Developer;
+declare(strict_types=1);
 
-class PrasetyaRiski extends FullStackEngineer
+namespace PrasetyaRiski;
+
+class Developer extends FullStackEngineer
 {
     public function currentMission(): string
     {
@@ -111,6 +111,6 @@ class PrasetyaRiski extends FullStackEngineer
 }
 ```
 
-<sub>⚡ Crafted with precision &bull; © 2026 Prasetya Riski</sub>
-
+<div align="center">
+  <sub>⚡ Crafted with precision &bull; © 2026 Prasetya Riski</sub>
 </div>
